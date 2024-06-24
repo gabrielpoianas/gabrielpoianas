@@ -1,4 +1,4 @@
-## Hello People!!
+## Hello Everyone. Welcome to my crazy world!!
 
 [![Gabriel Poianas github stats](https://github-readme-stats.vercel.app/api?username=gabrielpoianas&theme=dark&show_icons=true&count_private=true)](https://github.com/gabrielpoianas)
 
